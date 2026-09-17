@@ -1,0 +1,6 @@
+{
+  "name": "rent-free",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RentFree — a front-end-only CV builder. Plain static files: deploy the public/ folder to any static host."
+}
